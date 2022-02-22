@@ -1,3 +1,14 @@
+# 算法
+
+## 书籍
+
+- [Cracking the Coding Interview: 150 Programming Questions and Solutions 5th Revised & enlarged Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=as_li_ss_tl?ie=UTF8&redirect=true&ref_=as_li_tl&linkCode=ll1&tag=bigocheatsheet-1-20&linkId=52f670296578886d22cacce6c054edff)
+- [Introduction to Algorithms, 3rd Edition (The MIT Press) 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&redirect=true&ref_=as_li_tl&linkCode=ll1&tag=bigocheatsheet-1-20&linkId=105e776075c7c7a38c9b0581586d1fa5)
+- [Data Structures and Algorithms in Java 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539/ref=as_li_ss_tl?ie=UTF8&redirect=true&ref_=as_li_tl&linkCode=ll1&tag=bigocheatsheet-1-20&linkId=2b0ec7f4eca859cce10f98824db5a73d)
+- [High Performance JavaScript: Build Faster Web Application Interfaces 1st Edition](https://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=as_li_ss_tl?ie=UTF8&redirect=true&ref_=as_li_tl&linkCode=ll1&tag=bigocheatsheet-1-20&linkId=fbbcd88ba96f0e3341687c8170e31cc2)
+
+---
+
 - https://github.com/topics/algorithm
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)
