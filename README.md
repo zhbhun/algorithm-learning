@@ -1,6 +1,33 @@
 # 算法
 
-## 书籍
+## 教程
+
+- [数据结构与算法](https://www.runoob.com/data-structures/data-structures-tutorial.html) - 菜鸟教程
+- https://visualgo.net/en - 数据结构和算法动态可视化
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive Online Platform that Visualizes Algorithms from Code
+- [TheAlgorithm/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路。
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+
+## 书籍/课程
+
+- 《数据结构与算法分析 - C 语言描述》
+- 《算法 第四版》
+- [《Algorithms, Part I》](https://www.coursera.org/learn/algorithms-part1) / [《Algorightmsm, Part2》](https://www.coursera.org/learn/algorithms-part2)
+
+## 测试
+
+- https://leetcode.com/
+- https://onlinejudge.org/
+
+## 问题
+
+- [如何学习数据结构？](https://www.zhihu.com/question/21318658)
+
+
+---
 
 - [Cracking the Coding Interview: 150 Programming Questions and Solutions 5th Revised & enlarged Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=as_li_ss_tl?ie=UTF8&redirect=true&ref_=as_li_tl&linkCode=ll1&tag=bigocheatsheet-1-20&linkId=52f670296578886d22cacce6c054edff)
 - [Introduction to Algorithms, 3rd Edition (The MIT Press) 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&redirect=true&ref_=as_li_tl&linkCode=ll1&tag=bigocheatsheet-1-20&linkId=105e776075c7c7a38c9b0581586d1fa5)
@@ -10,8 +37,6 @@
 ---
 
 - https://github.com/topics/algorithm
-- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-- [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)
 
 ---
 
