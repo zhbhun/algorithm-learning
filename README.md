@@ -8,7 +8,6 @@
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive Online Platform that Visualizes Algorithms from Code
 - [TheAlgorithm/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路。
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 
 ## 书籍/课程
@@ -20,6 +19,11 @@
 ## 测试
 
 - https://leetcode.com/
+
+    - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题
+    - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路。
+    - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略
+
 - https://onlinejudge.org/
 
 ## 问题
