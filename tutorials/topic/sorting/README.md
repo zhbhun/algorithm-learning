@@ -8,9 +8,10 @@
 - [快速排序](https://www.runoob.com/w3cnote/quick-sort-2.html)
 - [堆排序](https://www.runoob.com/w3cnote/heap-sort.html)
 - [归并排序](https://www.runoob.com/w3cnote/merge-sort.html)
-- 随机快速排序
-- 计数排序
-- 基数排序
+- [计数排序](https://www.runoob.com/w3cnote/counting-sort.html)
+- [桶排序](https://www.runoob.com/w3cnote/bucket-sort.html)
+- [基数排序](https://www.runoob.com/w3cnote/radix-sort.html)
+- [希尔排序](https://www.runoob.com/w3cnote/shell-sort.html)
 
 ## 参考文献
 
