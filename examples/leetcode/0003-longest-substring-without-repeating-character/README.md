@@ -2,7 +2,7 @@
 
 ## 问退
 
-给定一个字符串 s ，请你找出其中不含有重复字符的 最长子串 的长度。
+给定一个字符串 s，请你找出其中不含有重复字符的 最长子串 的长度。
 
 - 示例 1:
 
@@ -33,7 +33,7 @@
 
 https://leetcode.cn/problems/longest-substring-without-repeating-characters
 
-## 题解
+## 解答
 
 ### 滑动窗口
 
@@ -80,3 +80,7 @@ https://leetcode.cn/problems/longest-substring-without-repeating-characters
 
     - 时间复杂度：$O(N)$，，其中 N 是字符串的长度。左指针和右指针分别会遍历整个字符串一次。
     - 空间复杂度：$O(|Σ|)$，其中 Σ 表示字符集（即字符串中可以出现的字符），∣Σ∣ 表示字符集的大小。
+
+## 总结
+
+考核集合与遍历。
