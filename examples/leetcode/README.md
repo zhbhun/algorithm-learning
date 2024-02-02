@@ -1,0 +1,13 @@
+- https://leetcode.cn
+- https://leetcode.com
+- https://www.lintcode.com
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路。
+- [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略
+- [LeetCode 题解](https://www.gitbook.com/book/siddontang/leetcode-solution/details)
+- https://github.com/haoel/leetcode
+- https://github.com/awangdev/LintCode
+- https://github.com/xuelangZF/LeetCode
+- https://github.com/keon/algorithms
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode)
+- [LeetCode JavaScript 版本合集](https://segmentfault.com/a/1190000017146507)

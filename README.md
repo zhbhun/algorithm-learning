@@ -10,7 +10,6 @@
 - [TheAlgorithm/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [hello-algo](https://github.com/krahets/)
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.
 
 ## 书籍/课程
 
@@ -20,11 +19,6 @@
 
 ## 测试
 
-- https://leetcode.com/
-
-    - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题
-    - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路。
-    - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略
 
 - https://onlinejudge.org/
 
@@ -46,20 +40,9 @@
 
 ---
 
-- [LeetCode 题解](https://www.gitbook.com/book/siddontang/leetcode-solution/details)
 - [What does the time complexity O(log n) actually mean?](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
 - [漫画：什么是动态规划？](https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&amp;mid=2655438647&amp;idx=1&amp;sn=4634f712fa4d0236aba60b8e8b7cc2cb&amp;chksm=bd730b408a048256f204695598c0e4f74e75c9582f5b9c740057a69747b306de1a4c308d5388&amp;mpshare=1&amp;scene=1&amp;srcid=0702N84baxNAmMFheg6Ck26Z&amp;key=238113c46368)
 
-## LeetCode
-
-- https://leetcode.com/
-- https://www.lintcode.com/ - 
-- https://github.com/haoel/leetcode
-- https://github.com/awangdev/LintCode
-- https://github.com/xuelangZF/LeetCode
-- https://github.com/keon/algorithms
-- [azl397985856/leetcode](https://github.com/azl397985856/leetcode)
-- [LeetCode JavaScript 版本合集](https://segmentfault.com/a/1190000017146507)
 
 ---
 
