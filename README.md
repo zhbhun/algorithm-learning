@@ -2,6 +2,7 @@
 
 ## 教程
 
+- [hello-algo](https://github.com/krahets/hello-algo) - Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [数据结构与算法](https://www.runoob.com/data-structures/data-structures-tutorial.html) - 菜鸟教程
 - https://visualgo.net/en - 数据结构和算法动态可视化
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
